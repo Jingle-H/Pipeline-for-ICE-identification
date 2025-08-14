@@ -1,1 +1,22 @@
-# Pipeline-for-ICE-identification
+# ICE Identification Pipeline
+
+This repository contains a pipeline for identifying Integrative Conjugative Elements (ICEs) in Metagenome-Assembled Genomes (MAGs). The workflow integrates multiple bioinformatics tools to detect conjugation systems, gene islands, and associated mobile genetic elements.
+
+## Dependencies
+- [Mauve](http://darlinglab.org/mauve/mauve.html) (v2015.02.13+)
+- [Prokka](https://github.com/tseemann/prokka) (v1.14+)
+- [Prodigal](https://github.com/hyattpd/Prodigal) (v2.6+)
+- [MacSyFinder](https://github.com/gem-pasteur/macsyfinder) (v2.0+)
+- [Islandviewer](https://www.pathogenomics.sfu.ca/islandviewer/) (v4.0+)
+- Python (v3.7+)
+
+## Workflow Overview
+
+### Step 1: Prepare query_list.txt file
+### Step 2: MAG Reordering
+### Step 3: Contig Stitching
+### Step 4: Conjugation System Detection
+### Step 5: Gene Island Prediction
+### Step 6: ICE Component Verification
+### Step 7: ICEberg Comparison
+

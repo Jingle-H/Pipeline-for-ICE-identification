@@ -13,10 +13,10 @@ This repository contains a pipeline for identifying Integrative Conjugative Elem
 ## Workflow Overview
 
 ### Step 1: Prepare query_list.txt file
-### Step 2: MAG Reordering
+### Step 2: MAG Reordering using Mauve
 ### Step 3: Contig Stitching
-### Step 4: Conjugation System Detection
-### Step 5: Gene Island Prediction
+### Step 4: Conjugation System Detection using MacSyFinder
+### Step 5: Gene Island Prediction using Islandviewer
 ### Step 6: ICE Component Verification
 ### Step 7: ICEberg Comparison
 

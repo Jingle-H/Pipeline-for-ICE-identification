@@ -20,3 +20,10 @@ This repository contains a pipeline for identifying Integrative Conjugative Elem
 ### Step 6: ICE Component Verification
 ### Step 7: ICEberg Comparison
 
+## Acknowledgments
+We sincerely thank Professor [Nolan Woods](https://www.sfu.ca/computing/people/faculty/nolanwoods.html) from Simon Fraser University for providing the `stitch.py` script. Professor Woods is a key developer of the [IslandViewer](https://www.pathogenomics.sfu.ca/islandviewer/) software, and his expertise in genomic island analysis was invaluable to this project.
+
+Special thanks for his guidance on:
+- Contig stitching methodology
+- Handling fragmented assemblies
+- Integration of genomic island prediction techniques
